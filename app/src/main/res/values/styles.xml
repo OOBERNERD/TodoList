@@ -14,6 +14,7 @@
     <!-- Dark Action Bar theme. -->
     <style name="ActionBarTheme" parent="@android:style/Widget.Holo.ActionBar.Solid">
         <item name="android:background">@color/colorPrimary</item>
+
     </style>
 
 </resources>
